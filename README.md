@@ -3,6 +3,8 @@ Year 10 Personal Project - Arduino Robot Tortoise
 
 This is the code for Tori Tortoise, my year 9 and 10 Personal Project robot. The robot has 8 servos, 2 for each leg. It takes in positional data from an ultrasonic distance sensor, and its actions are reported on an OLED display.
 
+![image](https://github.com/user-attachments/assets/01f834c8-5dd6-4423-b600-7a251b66268b)
+
 ## Materials:
 - [Arduino Uno](https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3)
 - 8 x [micro servos](https://www.jaycar.com.au/arduino-compatible-9g-micro-servo-motor/p/YM2758)
